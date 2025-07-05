@@ -69,7 +69,7 @@ This helps the user **feel and hear** the presence of obstacles, enabling safer 
 
 1. Install **NewPing** library in Arduino IDE
 2. Wire components as per the circuit diagram
-3. Open and upload `ultrasonic_glove_full.ino` from `/code/` folder
+3. Open and upload `ultrasonic_glove_.ino` from `/code/` folder
 4. Use Serial Monitor (9600 baud) to see distance readings
 
 ---
