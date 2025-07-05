@@ -91,7 +91,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Tushar Prajapati**  
-*Guided by Prof. Bhavin Mehta*  
+*Guided by Prof. Pooja Gohel*  
 Department of Biomedical Engineering  
 LD College of Engineering, Ahmedabad
 
